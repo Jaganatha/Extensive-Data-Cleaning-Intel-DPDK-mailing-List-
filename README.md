@@ -1,0 +1,2 @@
+# Extensive-Data-Cleaning-Intel-DPDK-mailing-List-
+The .py file contains scripts and function to clean and remove all noisy elements in a Software development mailing list such as system path, URL's, shell and Python Scripts and other special characters. This cleaning is done to extract on the Natural Language from the conversations to execute sentiment analysis inorder to study the affective states of the community members
